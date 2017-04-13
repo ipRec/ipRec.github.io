@@ -11,7 +11,7 @@ date: 2017-4-13
 
 IPTap-Giga is a different project with old IPTap. It's run a linux os and support Gigabit network. 
 
-You can reference other documents. <https://iprec.github.io/sipRecorder/ipRec-Giga-base>
+You can reference other documents. [ipRec-Giga-base](ipRec-Giga-base.md)
 
 XTR-Daemon is a Daemon process will running in IPTap-Giga. It commincate with XTR-software use network.
 
