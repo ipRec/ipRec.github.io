@@ -13,7 +13,7 @@ IPTap-Giga is a different project with old IPTap. It's run a linux os and suppor
 
 You can reference other documents. <https://iprec.github.io/sipRecorder/ipRec-Giga-base>
 
-XTR-Daemon is a Daemon process will running in IPTap-Giga. It commincate with XTR-software.
+XTR-Daemon is a Daemon process will running in IPTap-Giga. It commincate with XTR-software use network.
 
 * running in IPTap-Giga.
 * get network data via libpcap
