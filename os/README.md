@@ -17,7 +17,7 @@ date: 2017-4-11
 
 ```
 # cd /tmp
-# wget https://iprec.github.io/ipRec-giga/ipRec-giga-v0.1.2.bin
+# wget https://iprec.github.io/os/ipRec-giga-v0.1.2.bin
 # mtd -r write /tmp/ipRec-giga-*.bin firmware
 ```
 
